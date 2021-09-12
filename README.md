@@ -4,7 +4,7 @@
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
 - 👨🏽‍💻 JavaScript, HTML, CSS, Python
 - 📫 Contate-me no e-mail: dev.obe78@gmail.com
-- 😄 Pronomes que utilizo: ele/dele
+- 😄 Pronomes que utilizo: ela/dela
 - ⚡ Sou esportista
 
 
