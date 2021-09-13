@@ -1,4 +1,4 @@
-### Olá! Sou o Daniel Sonobe Silveira
+### Olá! Sou o Daniel
 
 - 📐Trabalhando como consultor de projetos para uma empresa do setor de pisos e revestimentos industriais
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
