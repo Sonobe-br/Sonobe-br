@@ -2,7 +2,7 @@
 
 - 📐Trabalhando como consultor de projetos para uma empresa do setor de pisos e revestimentos industriais
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
-- 💻 JavaScript, HTML, CSS, Python
+- 🦊 JavaScript, HTML, CSS, Python
 - 📫 Contate-me no e-mail: dev.obe78@gmail.com
 - 🎮 Meu passatempo favorito
 - ⚡ Sou triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️   
