@@ -5,7 +5,7 @@
 - 🦊 JavaScript, HTML, CSS, Python
 - 🎮 Passatempo favorito
 - ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
-- 🤖 Portfólio: https://sonobe-br.github.io/Certificard-GithubPages/   
+- 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
 - 📫 Contate-me no e-mail: dev.obe78@gmail.com
 
 
