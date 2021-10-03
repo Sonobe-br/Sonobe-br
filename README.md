@@ -4,7 +4,8 @@
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
 - 🦊 JavaScript, HTML, CSS, Python
 - 🎮 Passatempo favorito
-- ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️   
+- ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
+- 🤖 Acesse: https://sonobe-br.github.io/Certificard-GithubPages/   
 - 📫 Contate-me no e-mail: dev.obe78@gmail.com
 
 
