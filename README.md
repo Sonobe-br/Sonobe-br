@@ -2,7 +2,7 @@
 
 - 📐Trabalhando como analista de projetos para uma empresa do setor de pisos e revestimentos industriais
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
-- 🦊 JavaScript, HTML, CSS, Python
+- 🦊 JavaScript, HTML, CSS, Python, TypeScript
 - 🎮 Passatempo favorito
 - ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
 - 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
