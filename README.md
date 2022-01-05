@@ -2,7 +2,7 @@
 
 - 📐Trabalhando como analista de projetos para uma empresa do setor de pisos e revestimentos industriais
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
-- 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python
+- 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python, Java (estudando)
 - 🎮 Passatempo favorito
 - ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
 - 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
@@ -22,6 +22,7 @@
   <img align="center" alt="Sonobe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sonobe-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Sonobe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sonobe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
  
  ##
