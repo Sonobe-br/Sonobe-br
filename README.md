@@ -24,7 +24,7 @@
   <img align="center" alt="Sonobe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sonobe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" alt="Sonobe-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/VS/VSCode-original.svg">
+  <img align="center" alt="Sonobe-eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 </div>
  
  ##
