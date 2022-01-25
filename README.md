@@ -1,8 +1,8 @@
 ### Olá! Seja bem vindo ☕
 
-- 🤿Estudando Java
+- 🤿Estudando Java e React
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
-- 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python, Java (estudando)
+- 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python
 - 🎮 Passatempo favorito
 - ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
 - 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
