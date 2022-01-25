@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ☕
 
-- 📐Trabalhando como analista de projetos para uma empresa do setor de pisos e revestimentos industriais
+- 🤿Estudando Java
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
 - 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python, Java (estudando)
 - 🎮 Passatempo favorito
@@ -23,6 +23,8 @@
   <img align="center" alt="Sonobe-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Sonobe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sonobe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sonobe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sonobe-Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next.js/next.js-original.svg">
 </div>
  
  ##
