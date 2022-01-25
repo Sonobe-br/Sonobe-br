@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ☕
 
-- 🤿Estudando Java e React
+- 🤿 Estudando Java e React
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
 - 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python
 - 🎮 Passatempo favorito
