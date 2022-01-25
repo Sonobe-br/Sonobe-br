@@ -24,7 +24,7 @@
   <img align="center" alt="Sonobe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sonobe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sonobe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sonobe-Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next.js/next.js-original.svg">
+  <img align="center" alt="Sonobe-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
 </div>
  
  ##
