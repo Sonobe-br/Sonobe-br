@@ -1,8 +1,8 @@
 ### Olá! Seja bem vindo ☕
 
-- 🤿 Estudando Java e React
+- 🤿 Estudando Java, Typescript e React
 - 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
-- 🦊 HTML 5, CSS 3, JavaScript, TypeScript, Python
+- 🦊 HTML5, CSS3, JavaScript, Python
 - 🎮 Passatempo favorito
 - ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
 - 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
@@ -31,7 +31,8 @@
  <div>
   <h1>Contacts 📱 </h1>
   <a href = "mailto:dev.obe78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-sonobe-silveira-36b317211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-sonobe-silveira-36b317211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/home?lang=pt" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
  
  </div>
