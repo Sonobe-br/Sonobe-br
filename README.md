@@ -1,12 +1,12 @@
-### Olá! Seja bem vindo ☕
+### Hello everyone ☕
 
-- 🤿 Estudando Java, Typescript e React
-- 🖥 Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e, estudando programação na Alura
+- 🤿 I'm studying Java, Typescript and React
+- 🖥 I'm studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie and programming at Alura's school of technology
 - 🦊 HTML5, CSS3, JavaScript, Python
-- 🎮 Passatempo favorito
-- ⚡ Triatleta amador 🏊🏽‍♂️🚲🏃🏽‍♂️
-- 👩🏽‍🚀 Portfólio IMERSÃO DEV21 ALURA: https://sonobe-br.github.io/Certificard-GithubPages/   
-- 📫 Contate-me no e-mail: dev.obe78@gmail.com
+- 🎮 Favorite hobby
+- ⚡ Amateur triathlete 🏊🏽‍♂️🚲🏃🏽‍♂️
+- 👩🏽‍🚀 My IMMERSION DEV21 ALURA portfolio: https://sonobe-br.github.io/Certificard-GithubPages/   
+- 📫 Contact on email: dev.obe78@gmail.com
 
 
  <div>
