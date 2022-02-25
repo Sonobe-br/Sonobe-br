@@ -6,8 +6,7 @@ I love being with my kids enjoying the games, watching movies and being with Ozz
 
 - 🪐 I'm studying Java, Typescript and React,
 - 🚀 HTML5, CSS3, JavaScript, Python
-- 👽 I'm studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie and programming at Alura's 
-     school of technology
+- 👽 I'm studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie and programming at Alura
 - 🎮 Favorite hobby
 - ⚡ Amateur triathlete 🏊🏽‍♂️🚲🏃🏽‍♂️
 - 👩🏽‍🚀 My IMMERSION DEV21 ALURA portfolio: https://sonobe-br.github.io/Certificard-GithubPages/   
