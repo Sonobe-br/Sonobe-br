@@ -1,7 +1,6 @@
 ### Hello everyone ☕
 
-My name is Daniel, I work as a Development Analyst at the Bandeirante industry, (I also have a background as the owner of Click Web Brasil). In my spare time, I'm always studying, as a hobby and lifestyle, I practice sports, NadoPedalo&Corro (triathlon).
-I love being with my kids enjoying the video game, watching movies and being with Ozzy, our cat 🐈
+My name is Daniel, I'm a Development Analyst at Bandeirante industry, (I also have experience as owner of Click Web Brasil). In my spare time I try to keep myself studying, as a hobby and lifestyle, I practice endurance sports. I love being with my kids enjoying video games, watching movies and playing with Ozzy, our cat 🐈
 
 
 - 🪐 I'm studying Java, Typescript and React,
