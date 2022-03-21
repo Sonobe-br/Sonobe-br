@@ -4,7 +4,7 @@ My name is Daniel, I'm a Development Analyst at Bandeirante industry, (I also ha
 
 
 - 🪐 I'm studying Java, Typescript and React,
-- 🚀 HTML5, CSS3, JavaScript, Python
+- 🚀 HTML5, CSS3, JavaScript
 - 👽 I'm studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie and programming at Alura
 - 🎮 Favorite hobby
 - ⚡ Amateur triathlete 🏊🏽‍♂️🚲🏃🏽‍♂️
